@@ -1,4 +1,4 @@
-package de.weist.robomasterkt
+package de.weist.robomasterkit
 
 import org.junit.Test
 
